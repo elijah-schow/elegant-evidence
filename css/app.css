@@ -1,0 +1,33 @@
+#logo {
+    max-height: 6rem;
+    margin-bottom:1.5rem;
+}
+
+#subtitle {
+    margin-bottom:2.75rem;
+    font-size:1.5rem;
+}
+
+#callout {
+    padding-bottom: 4.5rem;
+}
+
+a {
+    font-weight: bold;
+}
+
+a.button {
+    font-weight: normal;
+}
+
+h3 {
+    border-top: .25rem solid #EEEEEE;
+    padding-top: 1.25rem;
+    margin-bottom: .75rem;
+    font-size: 1.5rem;
+}
+
+body {
+    padding: 5rem 0rem 3rem;
+    border-top: .25rem solid #CC0000;
+}
